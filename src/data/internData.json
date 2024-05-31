@@ -1,0 +1,490 @@
+{
+    "pageProps": {
+      "posts": [
+    {
+    "slug": "2023-intern-abhishek-pardhi-sprinklr",
+    "content": "\r\nAbhishek Pardhi, studying in IIT Kanpur as a BTech student in CSE will do\r\nhis summer internship in Product Engineer  profile at Sprinklr . Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nnan\r\n\r\n## Insights on the Selection Process\r\nhttps://drive.google.com/file/d/1FYX4hSlDnXimEpr1rSUm481s8gKnvFOf/view?usp=drivesdk\r\n\r\n##  Preparation Resources\r\nInterviewbit, Codeforces, GFG\r\n\r\n## Advice for students (dos and don’ts)? \r\nFirst start learning algorithms and practice questions on them time to time. Spend no more than 30 mins in a question.\r\nDo not talk much before your interview with others. This might create pressure and your mind will be full of unnecessary thoughts. Sleep well before interview day.\r\nFollow my codeforces handle to find blogs related to preparation for intern for SDE profile: Eren-Jaeger\r\n\r\n",
+    "meta": {
+      "title": "Abhishek Pardhi: Summer Intern at Sprinklr ",
+      "description": "Abhishek Pardhi",
+      "date": "2023-06-21",
+      "tags": "Product Engineer ,Sprinklr ,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-adarsh-kumar-jaguar-land-rover-india-limited",
+    "content": "\r\nAdarsh kumar, studying in IIT Kanpur as a BT student in EE will do\r\nhis summer internship in EV Powertrain Intern profile at Jaguar Land rover India Limited. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nKLA Tencor, Qualcomm, Eversana(consulting)\r\n\r\n## Insights on the Selection Process\r\nMost questions were from EE250. They asked very fundamental questions which were not taught in course but were related to practical implementation. They also asked questions from the ML project that I had done earlier along with some fundamental concepts from\r\nEE210.\r\nThey expect clarity in the fundamental concepts.\r\n\r\n##  Preparation Resources\r\nI had revised important concepts from previous courses like ESC201, EE250, EE210.\r\n\r\n## Advice for students (dos and don’ts)? \r\nPrepare core electrical courses well. It will be helpful to do a quick revision of EE250 before interview. Have clarity and confidence about the reason behind every concept taught during course. Be ready to defend every point related to project work mentioned in the resume.\r\n\r\n",
+    "meta": {
+      "title": "Adarsh kumar: Summer Intern at Jaguar Land rover India Limited",
+      "description": "Adarsh kumar",
+      "date": "2023-06-21",
+      "tags": "EV Powertrain Intern,Jaguar Land rover India Limited,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-aditya-anand-edelweiss",
+    "content": "\r\nAditya Anand, studying in IIT Kanpur as a BT student in ME will do\r\nhis summer internship in Quant Researcher profile at Edelweiss. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nJPMC-Quant\r\n\r\n## Insights on the Selection Process\r\nProjects focused mainly, puzzles (pigeonhole, no of occurrences for n heads, prob of forming a triangle by breaking stick in 3 pieces). Family background, future plans, why quant, why you type HR questions.\r\n\r\n##  Preparation Resources\r\nStats- ZedStatistics YT, InterviewBit data analysis stats; Puzzle- Brainstellar (must do), InterviewBit, 50 Challenging Problem, Coding- InterviewBit, Leetcode\r\n\r\n## Advice for students (dos and don’ts)? \r\nMost importantly, know every word of your resume (probably the reason, why I wasn't selected for jpmc.) Try forming the answer of HR question beforehand, and prepare a script for introduction.\r\n\r\n",
+    "meta": {
+      "title": "Aditya Anand: Summer Intern at Edelweiss",
+      "description": "Aditya Anand",
+      "date": "2023-06-21",
+      "tags": "Quant Researcher,Edelweiss,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-aditya-tanwar-tower-research-capital",
+    "content": "\r\nAditya Tanwar , studying in IIT Kanpur as a BTech student in CSE will do\r\nhis summer internship in Quantitative Trading Intern profile at Tower Research Capital. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nOptiver- SDE and Quant, Jane Street, Glean US and India, Alphagrep- Software, Graviton- Quant, Quadeye- Quant and System, DE Shaw, Goldman Sachs\r\n\r\n## Insights on the Selection Process\r\nTower Research Capital: A mix of CS fundamentals, algorithmic questions and puzzles were asked in the interview which lasted for about 1.5 hours.\r\n\r\nOptiver: You cannot really prepare fully for the interviews, but the interviews for quant role are based on market making (you'll be introduced to the topic at a suitable time by the company itself) and probability (expectation to be precise). You should become fluent in the terminology used in market making for quant interviews/ group discussions and also be prepared to make approximations under time pressure. For the SDE interviews, system design is helpful.\r\n\r\nJane Street: The initial rounds are based on expectation, you don't have to find the exact value. Most of the time, a qualitative analysis will do. The final round is a bunch of interactive games on market making and probability. In the final interview, there are 3 rounds which take around 4 hours in total.\r\n\r\nAlphagrep: The topics of questions asked ranged from C++ syntax (because I was more comfortable in C++ than Java) to OOPs to algorithmic questions (some of them required theoretical arguments, others were about implementation) similar to those asked on codeforces/interviewbit. A lot of questions were asked in an interview that lasted for 1.5-2 hours.\r\n\r\nQuadeye: In the systems role, some puzzles were asked in the first round. The second round was mostly OOPs and syntax of C++.\r\n\r\n##  Preparation Resources\r\nI focused on CP (InterviewBit), puzzles (Brainstellar and GfG), and probability (50 challenging problems, CS203, some common problems like coupon collector, ballot problem, etc.) because I wanted to prepare for Quant and SDE roles. I used to switch between InterviewBit and Brainstellar to prevent the process from being monotonic.\r\nThe test series by SPO and PClub were helpful in CP, and the DSA timeline provided by SPO especially helped prepare in a structured way.\r\n\r\n## Advice for students (dos and don’ts)? \r\n1. Have a plan for your preparation. Don't waste your time preparing for roles that you're not interested in.\r\n2. Doing interviewbit is strongly recommended because it helps both in the coding tests as well as the interviews. Often, questions are asked directly from interviewbit.\r\n3. Finish your preparation/revision strictly before the tests begin, you will not be getting time to prepare afterwards because of the hectic schedules of the tests.\r\n4. Keep your health the first priority.\r\n5. For software roles (and even some quant roles) being familiar with OOPs along with keywords/syntax is very beneficial (at least in one language, C++ recommended) because questions are often asked about them.\r\n6. If there is a clash between two interviews, make sure to give the one whose role you prefer more. Do NOT postpone a more preferred role/company for later.\r\n\r\n",
+    "meta": {
+      "title": "Aditya Tanwar: Summer Intern at Tower Research Capital",
+      "description": "Aditya Tanwar",
+      "date": "2023-06-21",
+      "tags": "Quantitative Trading Intern,Tower Research Capital,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-akanksha-singh-bain--company",
+    "content": "\r\nAkanksha Singh , studying in IIT Kanpur as a BT student in CSE will do\r\nher summer internship in Associate consultant intern profile at Bain & Company. Here are some brief\r\ninsights of hers.\r\n\r\n## Shortlisted Profiles & Companies:\r\nBoston Consulting Group, Microsoft PM/TPM, Quantbox Systems, Alphagrep Software, Alphagrep Quant(offer), Quadeye, Sprinklr\r\n\r\n## Insights on the Selection Process\r\nMarket sizing(shaving razor market in Indonesia) and unconventional cases(additional revenue streams for Google apart from ads, improving user experience for food delivery apps) were asked in my consulting interviews.\r\n\r\nC++ and stl implementation details and basic graph, dp and two pointer questions were asked in the quant interviews.\r\n\r\n##  Preparation Resources\r\nSDE:\r\nI followed the SPO 8 week plan and completed all topics(did atleast a few questions from each) on interviewbit. (Would recommend codeforces for timed practice).\r\n\r\nConsulting:\r\nResources: 1. Victor cheng's case interviews playlist\r\n2. IITB Casebook\r\n\r\nPractice: I practiced 2-3 cases with batchmates and 10 Cases with alums/seniors. I wrote down and analysed the feedback and worked on not making the same mistakes in the subsequent mocks. \r\n\r\n## Advice for students (dos and don’ts)? \r\n1. Be consistent in your preparation, doing even three hours of prep per day all summer can drastically improve your chances.\r\n2. For consulting, do a lot of mocks with seniors, and take their feedback seriously. Preferably also get seniors to review your cv.\r\n3. Be confident in your interviews. No interviewer expects you to be perfect. Making mistakes or not knowing something in the interview is absolutely okay, you just need to keep your calm through the rest of it. \r\n4. For both coding tests and case interviews, focus on improving your aptitude/thought process rather than mugging up frameworks/algorithms.\r\n\r\n",
+    "meta": {
+      "title": "Akanksha Singh: Summer Intern at Bain & Company",
+      "description": "Akanksha Singh",
+      "date": "2023-06-21",
+      "tags": "Associate consultant intern,Bain & Company,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-akhil-jain-de-shaw-india",
+    "content": "\r\nAkhil Jain, studying in IIT Kanpur as a B.Tech student in CSE will do\r\nhis summer internship in Technical Developer profile at DE Shaw India. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\n● DE Shaw (Technology\r\nDeveloper)\r\n● Optiver (Software/Quant)\r\n● Graviton(Quant)\r\n\r\n## Insights on the Selection Process\r\nDE Shaw looks for the individuals who have good problem solving\r\nskills. Even if you are not good at CP, they look more towards your\r\napproach to a problem, your creativity in the solution. As the projects on\r\nyour resume and courses such as DSA are the only signs of your\r\ncoding experience, they question you heavily on the resume. They also\r\ntest your sincerity towards your work based on your answers to these\r\nquestions.\r\nThey want efficient solutions and that’s why much focus is on the\r\noptimization problems w.r.t both memory and time.\r\n\r\n##  Preparation Resources\r\n1. LeetCode Explore Cards for studying DSA concepts\r\n2. Interviewbit Programming Questions along with LeetCode Easy/Medium Questions\r\n3. Aditya Verma 50 DP problems playlist\r\n4. After completing Interviewbit, LeetCode Hard questions for Graph and DP practice\r\n\r\n## Advice for students (dos and don’ts)? \r\nDo’s\r\n1.) Even if you haven’t studied DSA, it is quite possible that through regular practice in\r\nthese 2.5 months, you can crack the coding questions of most companies. So, do\r\nutilise it tu the fullest.\r\n2.) At first build your base in C++ STL. Get comfortable with vectors, pairs at first , solve\r\nthe questions on Interviewbit and LeetCode. Then move further as per the SPO\r\nschedule.\r\n3.) Maintain a notebook to note the questions which you found tricky and difficult. Note the\r\nquestion and its approach after coding the solution. It is going to be highly useful in\r\nJuly end when you will need to revise all the 400-500 questions you have solved.\r\n4.) Make interview 2-way communication. Don’t hesitate to tell your approach(even if\r\nwrong) to the interviewers. They will try to correct you with hints.\r\n5.) Any firm will look for your interest in the firm. Most of the interviewers are firm\r\nemployees, so try to build a bond with them by taking their introduction, what work\r\nthey do in the firm and what they expect from you as a candidate. Don’t forget to ask\r\nabout the interview feedback at the end. These things will leave a positive impact on\r\nthem after the interview.\r\n6.) In last few days, solve random questions using a timer and note the time taken.\r\n\r\nDon’ts\r\n\r\n1.) Don’t take a long leave from coding in the summer if you are a beginner.\r\n2.) Never boast in front of an interviewer about your skills and abilities. Don’t\r\nexaggerate them. It makes a negative impact about your attitude and honesty.\r\n\r\n",
+    "meta": {
+      "title": "Akhil Jain: Summer Intern at DE Shaw India",
+      "description": "Akhil Jain",
+      "date": "2023-06-21",
+      "tags": "Technical Developer,DE Shaw India,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-akshay-k-muraleedharan-nvidia",
+    "content": "\r\nAkshay K Muraleedharan, studying in IIT Kanpur as a BT student in EE will do\r\nhis summer internship in ASIC Intern / System Software Intern profile at NVIDIA. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nnan\r\n\r\n## Insights on the Selection Process\r\nDivide by two realisation in digital circuits, some algorithm ques\r\n\r\n##  Preparation Resources\r\nStudied coursework thoroughly, plus learnt verilog\r\n\r\n## Advice for students (dos and don’ts)? \r\nDo not compare yourself to others. Your time will come.\r\n\r\n",
+    "meta": {
+      "title": "Akshay K Muraleedharan: Summer Intern at NVIDIA",
+      "description": "Akshay K Muraleedharan",
+      "date": "2023-06-21",
+      "tags": "ASIC Intern / System Software Intern,NVIDIA,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-alok-kumar-thakur-amazon",
+    "content": "\r\nAlok Kumar Thakur , studying in IIT Kanpur as a Double major student in AE will do\r\nhis summer internship in SDE Intern profile at Amazon. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nMicrosoft, American Express, Kivi Capital, Oracle\r\n\r\n## Insights on the Selection Process\r\nThere was only one interview round (technical) for Amazon. I was asked for my introduction, then 2 coding problems and 2 short answer questions. First Coding Problem - 'You are given two sticks of some given length. You can break each of these sticks into as many pieces as you want. Finally you have to choose 4 sticks of equal length out of all those sticks and form a square. You have to report the side length of the maximum area square which you can from.' Second Coding Problem - 'Find the maximum path sum between any two leaf nodes in a binary tree'. Then I was asked about the definitions of postorder and inorder traversal of a binary tree.\r\n\r\n##  Preparation Resources\r\nI did coding on Competitive coding websites like 'Codeforces' and 'Codechef', but mainly on Codeforces. I also practiced from Interviewbit. 'Puzzles' as well as 'Programming' section of Interviewbit helped a lot.\r\n\r\n## Advice for students (dos and don’ts)? \r\nMy advice to students sitting for internship next year would be to thoroughly complete each and every problem from Interviewbit (Programming and Puzzles sections). And also learn about Object Oriented Programming. It would be good if you have knowledge of the following 3 languages - C++, Java and Python. For Quant profiles, you should do Interviewbit puzzles and Brainstellar compulsorily. Additionally, you could also solve the book named '50 Challenging Problems'.\r\n\r\n",
+    "meta": {
+      "title": "Alok Kumar Thakur: Summer Intern at Amazon",
+      "description": "Alok Kumar Thakur",
+      "date": "2023-06-21",
+      "tags": "SDE Intern,Amazon,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-amit-jain-amazon",
+    "content": "\r\nAmit Jain, studying in IIT Kanpur as a BT student in CHE will do\r\nhis summer internship in SDE profile at Amazon. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nAmazon, Piramal\r\n\r\n## Insights on the Selection Process\r\nThe First question is based on Sliding Window. The question is to find the subarray with given Sum\r\nThe Second question is based on BFS Traversal in graph. \r\n\r\n##  Preparation Resources\r\nLeetCode, InterviewBit, GeekForGeeks, Love Babbar DSA playlist, Aditya Verma Playlist For DP\r\n\r\n## Advice for students (dos and don’ts)? \r\nFirst choose the profile according to your interest (atleast two) then thoroughly work on it everyday.\r\nFor SDE role do at least 2-3 problems a day and participate in contests regularly.\r\nLeetcode is a good platform for practicing DSA problems.\r\n\r\n\r\n",
+    "meta": {
+      "title": "Amit Jain: Summer Intern at Amazon",
+      "description": "Amit Jain",
+      "date": "2023-06-21",
+      "tags": "SDE,Amazon,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-anmol-pabla-morgan-stanley",
+    "content": "\r\nAnmol Pabla, studying in IIT Kanpur as a BT student in ME will do\r\nhis summer internship in Strats and Quant profile at Morgan Stanley. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nQuadeye (Systems), Quantbox (Software), Sprinklr, Goldman Sachs\r\n\r\n## Insights on the Selection Process\r\nThe interview with Morgan Stanley involved questions on probability concepts like the Bayes theorem. I was also asked a couple of programming questions in the first round, I didn't have to code them but had to explain the approach to be taken. The second round invloved puzzles and questions on statistics and probability. The two rounds were then followed by a short HR round. You might not be able to solve the question in the first go, try to explain your approach and take the hints that the interviewer gives you.\r\n\r\nQuestions:- \r\nFinding Median of two sorted arrays after combining them.\r\nNo. of Rectangles and squares in a chess board.\r\nEffect of skewness on measures of central tendency of a standard normal distribution.\r\n\r\n##  Preparation Resources\r\nI prepared for Software roles by practicing on websites like LeetCode and InterviewBit. Having good knowledge of Data Structures and Algorithms is always a plus. One should always try to solve questions in a timed manner.\r\nFor quant profiles, Brainstellar and 50 challenging problems in probability are a must, questions in interviews are often extracted from concepts present in the questions on these websites.  \r\n\r\n## Advice for students (dos and don’ts)? \r\nStart your preparation early and spend time on making a resume. Before the interviews prepare your resume well enough to answer any questions about it. \r\n\r\nAnd the most important thing in times like these is to always keeping your morale up.\r\n\r\n",
+    "meta": {
+      "title": "Anmol Pabla: Summer Intern at Morgan Stanley",
+      "description": "Anmol Pabla",
+      "date": "2023-06-21",
+      "tags": "Strats and Quant,Morgan Stanley,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-ansh-saxena-alphagrep-securities",
+    "content": "\r\nAnsh Saxena, studying in IIT Kanpur as a Double major,  student in CE and MTH will do\r\nhis summer internship in Quantitative Research Intern profile at Alphagrep Securities. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\n● Alphagrep, quant\r\n● Graviton, sde\r\n● DE Shaw, sde\r\n● Sprinklr, sde\r\n\r\n## Insights on the Selection Process\r\nThey were seeing if one could logically go about solving the problem, It\r\nwas fine if one could not arrive at the final answer, they were focusing\r\nmore on the approach.\r\n\r\n##  Preparation Resources\r\nInterviewbit\r\nTest series from archive by Pclub\r\nBrainsteller\r\n50 challenging problems\r\n\r\n## Advice for students (dos and don’ts)? \r\nStart doing coding even if the aim is HFTs. Getting good in coding is important. Interviewbit\r\nhas some good questions, and the archive test series is great. For the probability part,\r\nbrainsteller and 50 cp is sufficient.\r\n\r\n",
+    "meta": {
+      "title": "Ansh Saxena: Summer Intern at Alphagrep Securities",
+      "description": "Ansh Saxena",
+      "date": "2023-06-21",
+      "tags": "Quantitative Research Intern,Alphagrep Securities,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-anshul-jain-accenture",
+    "content": "\r\nAnshul Jain, studying in IIT Kanpur as a B.tech student in ME will do\r\nhis summer internship in Strategy consulting profile at Accenture. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\n● Accenture – strategy\r\nconsulting\r\n● Eversana – consulting\r\n\r\n## Insights on the Selection Process\r\nChecked how genuine the candidate is in terms of resume.\r\nconfidence, patience will help you get smoothly even if you make\r\nmistakes ( I did in the guesstimate question)\r\n\r\n##  Preparation Resources\r\nVictor Cheng’s video series and case interview cracked( book) are the commonly used\r\nresources for consulting prep, although no case was asked in the interview and only a\r\nguesstimate. The rest was to read about Accenture (core values, etc.) before the interview for\r\nHR questions.\r\n\r\n## Advice for students (dos and don’ts)? \r\nPractice your intro; read about companies before their interviews,after you are shortlisted.\r\nPractice speaking in front of the mirror to gain confidence. Basic consulting prep will get\r\nyou through this interview no other prep is required.\r\n\r\n",
+    "meta": {
+      "title": "Anshul Jain: Summer Intern at Accenture",
+      "description": "Anshul Jain",
+      "date": "2023-06-21",
+      "tags": "Strategy consulting,Accenture,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-anshuman-walmart",
+    "content": "\r\nAnshuman, studying in IIT Kanpur as a BTech student in MSE will do\r\nhis summer internship in SDE profile at Walmart. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\n● American Express-\r\nAnalytics\r\n● JLR-SDE\r\n● Mastercard-Analytics\r\n● LimeChat-ML\r\n\r\n## Insights on the Selection Process\r\nIn the American Express and MasterCard shortlist was done on the\r\nbasis OA, there were 2 rounds of interviews, questions based on\r\nprob and stats, guesstimates, resume projects , basic ML\r\nquestions, what does the company , were asked .\r\nLimeChat shortlist was based on resume and OA, having\r\nexperience ML and DL helps in shortlisting.\r\nWalmart recruitment was totally based on the 3 OA rounds.\r\nOther insights on the interview process -\r\nThink out loud, the interviewer wants to know your approach.\r\nCommunicate well, try to catch the hints that the interviewer gave,\r\nThink of the corner cases while solving problems.\r\nTrying minimizing the use of Complex words.\r\nIn the end ask questions from the interviewer to show your\r\ninquisitiveness.\r\n\r\n##  Preparation Resources\r\n1. DP Lecture - Aditya Verma (YouTube)\r\n2. Graph Lecture - Striver\r\n3. ML Resources\r\nPractice\r\n1. Interviewbit\r\n2. Leetcode\r\n3. Striver SDE Problems\r\n4. Brainstellar\r\n5. 50 challenging Problems in Prob and Stats\r\n\r\n## Advice for students (dos and don’ts)? \r\nStart Your Preparation as early as possible.\r\nPractice enough questions to gain confidence in topics.\r\nPrepare your resume thoroughly well before in advance.\r\nDon’t neglect the HR interview preparation, look at the “About the Company “section before\r\nthe interviews.\r\nIt may be possible that you might get rejected in interviews, don’t get demotivated Have Faith\r\nin God, and continue your preparation, in the end you would grab an offer.\r\nTalk to seniors in case of advice during the preparation and before the interviews. Feel free to\r\n\r\nget in touch with me in case of any doubts.\r\n\r\n",
+    "meta": {
+      "title": "Anshuman: Summer Intern at Walmart",
+      "description": "Anshuman",
+      "date": "2023-06-21",
+      "tags": "SDE,Walmart,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-anushka-panda-microsoft-india",
+    "content": "\r\nAnushka Panda, studying in IIT Kanpur as a BT student in CSE will do\r\nher summer internship in ML Intern profile at Microsoft India. Here are some brief\r\ninsights of hers.\r\n\r\n## Shortlisted Profiles & Companies:\r\nBCG, GS, JPMC, Google\r\n\r\n## Insights on the Selection Process\r\nGoogle and Microsoft coding on the tougher side, JPMC questions tougher in second round, and yeah, case interviews ARE hard\r\n\r\n##  Preparation Resources\r\nLeetcode for coding, Github repos for studying ML, books on Quant, Casebooks from other colleges\r\n\r\n## Advice for students (dos and don’ts)? \r\nPractice...and trust yourself...be yourself\r\n\r\n",
+    "meta": {
+      "title": "Anushka Panda: Summer Intern at Microsoft India",
+      "description": "Anushka Panda",
+      "date": "2023-06-21",
+      "tags": "ML Intern,Microsoft India,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-armeet-singh-luthra-piramal-pharma-solutions",
+    "content": "\r\nArmeet Singh Luthra , studying in IIT Kanpur as a BT student in CHE will do\r\nhis summer internship in Global Emerging Leader Program profile at Piramal Pharma Solutions . Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nHUL for R&D\r\n\r\n## Insights on the Selection Process\r\nJEE level theory questions were asked from Solutions, Thermodynamics and their real life applications.\r\n\r\nTechnical Questions: \r\n\r\n1) What is Entropy? \r\n2) What happens to entropy if there is a chemical reaction?\r\n3) What happens to a non- spontaneous chemical reaction if a catalyst is used?\r\n4) What is the effect of addition of impurities to a substance,on boiling point and freezing point?\r\n5)What is distillation? Is it a separation process or purification process? Give reasons.\r\n6) What are the type of reactors ? Which type of reactor is used in Pharma?Name an industry where continuous reactor is used?\r\n7)What are the applications of heat transfer? \r\n8)What are the working fluids used in refrigerator starting from latest one to the first?\r\n9)What is FDA?\r\n\r\nHR questions\r\n1) Why did you chose Chemical engineering?\r\n2) Talk about a tough situation where you faced an enormous amount of stress?\r\n3) What are your goals in life?\r\n4) How do you ensure that you are continuously learning in life? Give examples.\r\n5) How will you be able to contribute to the organization if we select you as a summer intern?\r\n\r\n\r\n##  Preparation Resources\r\nESO201 slides(Pankaj Apte),\r\nCHE211(Notes)\r\nCHE221 slides(Vishal Agarwal)\r\n\r\n## Advice for students (dos and don’ts)? \r\n1) Try to work on your communication skills ASAP by devoting atleast 15min daily, thinking and speaking about any topic in front of mirror.\r\n\r\n2) Prepare yourself mentally for the situation where you won't even get shortlisted in majority of companies.\r\n\r\n3) Luck matters a lot, so even if you don't know anything just keep your confidence and attention level high during your interviews.\r\n\r\n4) Plan your time wisely, you will have to give a lot of time in making your resume,  attending PPTs and revising courses during the last few weeks before the intern season.\r\n\r\n",
+    "meta": {
+      "title": "Armeet Singh Luthra: Summer Intern at Piramal Pharma Solutions ",
+      "description": "Armeet Singh Luthra",
+      "date": "2023-06-21",
+      "tags": "Global Emerging Leader Program,Piramal Pharma Solutions ,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-arnav-gupta-tower-research",
+    "content": "\r\nArnav Gupta, studying in IIT Kanpur as a BTech student in CSE will do\r\nhis summer internship in Quantitative Research and Development Intern profile at Tower Research. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nJane Street, Quantbox, Quadeye, Sprinklr\r\n\r\n## Insights on the Selection Process\r\nThe interview process at Tower consisted of 2 rounds. In the first round, I was asked about a project in my resume, basics of pipelining, a couple of problems on linked lists, and 2 puzzles. \r\nThe second round was relatively small where I was again asked about my resume and a probability problem.\r\n\r\n##  Preparation Resources\r\nInterviewbit and CSES problemset for programming, and 50 challenging problems, Brainstellar for probability/puzzles.\r\n\r\n## Advice for students (dos and don’ts)? \r\nTry to maintain a CPI above 9 for quant/software roles, and start the preparation early on. In the interviews, keep calm and think out loud.\r\n\r\n",
+    "meta": {
+      "title": "Arnav Gupta: Summer Intern at Tower Research",
+      "description": "Arnav Gupta",
+      "date": "2023-06-21",
+      "tags": "Quantitative Research and Development Intern,Tower Research,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-arpit-kumar-rai-glean",
+    "content": "\r\nArpit Kumar Rai , studying in IIT Kanpur as a BT student in CSE will do\r\nhis summer internship in Software profile at Glean . Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nJane Street, Tower Research, Quadeye, Quantbox, Graviton, Alphagrep, Sprinklr, De Shaw\r\n\r\n## Insights on the Selection Process\r\nInterviews focussed mainly on line of thought rather than the correctness of it in the first attempt. Try to take the hints given by interviewer and update your thought process accordingly. CP questions are basically on the easy side. Puzzles and probability may require exposure to a lot of questions\r\n\r\n##  Preparation Resources\r\nFor coding - Codeforces helps but for interview questions go for leetcode\r\nProbability and Puzzles - Brainstellar and 50 Challenging Problems in Probability \r\n\r\n## Advice for students (dos and don’ts)? \r\nInterviewe focussed mainly on line of thought rather than the correctness of it in the first attempt. Try to take the hints given by interviewer and update your thought pricess accordingly. Cp questions are basically on the easy side. Puzzles and probability may require exposure to a lot of questions\r\n\r\n",
+    "meta": {
+      "title": "Arpit Kumar Rai: Summer Intern at Glean ",
+      "description": "Arpit Kumar Rai",
+      "date": "2023-06-21",
+      "tags": "Software,Glean ,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-aryaman-singhal-morgan-stanley",
+    "content": "\r\nAryaman Singhal, studying in IIT Kanpur as a BS student in MTH will do\r\nhis summer internship in Sales and Trading profile at Morgan Stanley. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nN.A.\r\n\r\n## Insights on the Selection Process\r\nApart from the technical questions, they asked me about every detail about my resume. So you must be prepared. You need to know about everything you have mentioned in the resume, like club projects, undergraduate project, what all you learned in them. \r\n\r\n##  Preparation Resources\r\nMy preparation included mostly Mathematics and the basics of Finance. Sites such as brainstellar, and other websites helped me get better at strategy puzzles, probability based questions. Mostly brainteasers were asked. For finance, it was mostly basic questions, that you would be aware of if you just have curiosity, and be willing to understand financial terms, that you sometimes hear, such as IPO, angel investor, Debt, Bonds, Stocks. Not very high level knowledge is required ot expected for Finance.\r\n\r\n## Advice for students (dos and don’ts)? \r\nBe calm, I did get a little nervous, and if you mention anything on your resume, make sure you really understand it.\r\n\r\n",
+    "meta": {
+      "title": "Aryaman Singhal: Summer Intern at Morgan Stanley",
+      "description": "Aryaman Singhal",
+      "date": "2023-06-21",
+      "tags": "Sales and Trading,Morgan Stanley,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-aryan-sharma-quantbox",
+    "content": "\r\nAryan Sharma , studying in IIT Kanpur as a BT student in CSE will do\r\nhis summer internship in Quant profile at Quantbox. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nQuadeye - Quant\r\n\r\n## Insights on the Selection Process\r\nPuzzles/Games, Probability, CP\r\n\r\n##  Preparation Resources\r\nBrainstellar, interviewbit, geeksforgeeks\r\n\r\n## Advice for students (dos and don’ts)? \r\nPractice coding\r\n\r\n",
+    "meta": {
+      "title": "Aryan Sharma: Summer Intern at Quantbox",
+      "description": "Aryan Sharma",
+      "date": "2023-06-21",
+      "tags": "Quant,Quantbox,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-aryan-vora-bain--company",
+    "content": "\r\nAryan Vora , studying in IIT Kanpur as a BT student in CSE will do\r\nhis summer internship in Consulting profile at Bain & Company. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nQuadeye Quant, Graviton Quant, Microsoft ML\r\n\r\n## Insights on the Selection Process\r\nFor Consulting, prepare for typical HR questions well, know why you are choosing that particular company, and even why you are attracted to consulting in the first place.\r\nBe very strong in cases and guesstimates, and expect unconventional cases from Partners. Have very strong communication skills, and ask all questions no matter how stupid you think they are. Stand strong for the recommendations you make and provide justifications if the interviewer attacks your recommendations. Think out loud and make sure the interviewer knows what you are thinking.\r\n\r\nFor Quant, practice a lot of probability and puzzles. Interviews are usually short and ask somewhere between 3 to 5 questions.\r\n\r\nFor ML, revise the common ML algorithms, and how when you can use them. Be well versed with the projects on your resume. Also go through various data manipulation techniques that are used in ML applications.\r\n\r\n##  Preparation Resources\r\nFor Quant, use Brainstellar and 50 Problems in Probability.\r\nFor Consult follow Case Interview Cracked, Case in Point and IIMA Handbook. Also, form a great friend circle for Case-prep with like minded people.\r\nFor ML, know the ins and outs of the projects you have worked on and know basic algorithms, their drawbacks and their pros. Basic DSA always helps.\r\n\r\n## Advice for students (dos and don’ts)? \r\nAlways have a backup in a different profile if your primary profile doesn't work out for you. \r\nAlso, be calm throughout the preparation process and even during the interviews. \r\n\r\n",
+    "meta": {
+      "title": "Aryan Vora: Summer Intern at Bain & Company",
+      "description": "Aryan Vora",
+      "date": "2023-06-21",
+      "tags": "Consulting,Bain & Company,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-aryash-pateriya-boston-consulting-group",
+    "content": "\r\nAryash Pateriya, studying in IIT Kanpur as a BTech student in CE   will do\r\nhis summer internship in Summer Associate profile at Boston Consulting Group. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\n● Bain and Company,\r\nAssociate\r\n● Google SDE\r\n● Morgan Stanley- Stats and\r\nQuant\r\n● DE Shaw- SDE\r\n● Sprinklr- SDE\r\n\r\n## Insights on the Selection Process\r\n1. Resume ShortList=:\r\n-They Look for Peaks in the Resume things like:\r\n-por\r\n-cpi\r\n-academic achievement\r\n- research paper\r\n- intern\r\n-ExtraCurricular\r\n-InterIIT Medals\r\nThey look for 2 or 3 Peaks in General.\r\n2. Buddy Tround\r\n-They Assign you an Alum(RecenT Graduate), who will be in\r\ntouch with you throughout the process.\r\n-There is a time window of about 15 days, to prepare for the\r\ncase interviews.\r\n- Make sure that you contact the buddy, for case prep which is a\r\nplus.\r\n3. Office Tour / Dinner\r\n- Not a major part of evaluation, but sometimes evaluated.\r\n4. Case Interviews\r\n- There are 3 Rounds of Interviews, consisting of Cases.\r\nGenerally, these cases are given by the Project Leaders and\r\nPartners of BCG.\r\n-\r\n\r\nInsights on the\r\nSelection Process\r\n\r\nMake sure you have decent contact with the Buddy. Also, contact\r\nyour Seniors in the domain, friends who are preparing for the\r\nsame and Practice the cases with them with consistency. If you\r\ncan get a chance to have a dummy interview with partner, make\r\nsure you are well prepared for this.\r\n\r\nSample Interview\r\n/Test Questions\r\n\r\nMy Interview consisted of three rounds and all rounds were based\r\non case interviews and guesstimates.\r\nRouund1 –\r\n\r\nYou are hired as a consultant and hotel owner has given you a\r\ntask that you are going to buy a hotel in shimla on the outskirts so\r\nyou have to guestimate the profit of the hotel and also decide\r\nyoiur future plans and estimation of profits.\r\nRound 2 – case realted to banks and bank laws\r\nRound 3 - Merger and Acquisiton\r\nA chain of hospitals in china wants to merge with a hospital in\r\nIndia and expand its domain.\r\n\r\n##  Preparation Resources\r\nVictor cheng video series\r\nCIC IIT BOMBAY book\r\nIIM A case book and a good resource for guesstimates as well\r\nStart prep at least a month before the companies are coming for recruiting.\r\nMock interviews amongst friends.\r\n\r\n## Advice for students (dos and don’ts)? \r\nConstant touch with buddy\r\nDo consider backup options prepare for other profiles as well\r\n\r\n",
+    "meta": {
+      "title": "Aryash Pateriya: Summer Intern at Boston Consulting Group",
+      "description": "Aryash Pateriya",
+      "date": "2023-06-21",
+      "tags": "Summer Associate,Boston Consulting Group,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-avi-kumar-quadeye",
+    "content": "\r\nAvi Kumar, studying in IIT Kanpur as a BTech student in CSE will do\r\nhis summer internship in Quant profile at QUADEYE. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\n● Quant in Quantbox,\r\nAlphagrep, and Quadeye\r\n● Systems in Quadeye,\r\nAlphagrep, Quantbox,\r\nGraviton, and Optiver\r\n● Software in Microsoft and\r\nmore\r\n\r\n## Insights on the Selection Process\r\nSelection process focussed on branch and CPI(above 9), and all\r\nIndia rank in JEE advances a lot.\r\nProbability and puzzles were asked in the interview\r\n\r\n##  Preparation Resources\r\nCodeforces, interview bit, brainsteller, 50 probs in probability.\r\n\r\n## Advice for students (dos and don’ts)? \r\nDon’t wait for the end time; start in summer at least. Need to solve puzzles and probability\r\nquestions if want a quant profile\r\nExplain all ideas in an interview; only correct answer is not necessary. Your thought process\r\nis also essential.\r\n\r\n",
+    "meta": {
+      "title": "Avi Kumar: Summer Intern at QUADEYE",
+      "description": "Avi Kumar",
+      "date": "2023-06-21",
+      "tags": "Quant,QUADEYE,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-avinash-prasad-goldman-sachs",
+    "content": "\r\nAvinash Prasad, studying in IIT Kanpur as a BT student in CSE will do\r\nhis summer internship in Summer Intern profile at Goldman Sachs. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nNIL\r\n\r\n## Insights on the Selection Process\r\nWell they mostly asked questions from data structures and algorithms. There was a bit of mathematics involved but that's to be expected. Some questions were also from the projects on my Resume.\r\n\r\n##  Preparation Resources\r\nI regularly practiced competitive coding on Codeforces and Codechef. Also, I had done data structures and algorithms course from my department, so I had knowledge of data structures quite well. Also, InterviewBit played a very important role. I practiced a lot from there which actually helped me in my interviews. Other resources like GeeksforGeeks and cp-algorithms were also a great help.\r\n\r\n## Advice for students (dos and don’ts)? \r\nIf you want to get a Software role, sincerely study data structures and algorithms. While practicing coding will help you get past technical tests, having a broad knowledge about them will help you in your interviews.\r\n\r\n",
+    "meta": {
+      "title": "Avinash Prasad: Summer Intern at Goldman Sachs",
+      "description": "Avinash Prasad",
+      "date": "2023-06-21",
+      "tags": "Summer Intern,Goldman Sachs,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-ayush-gupta-amazon",
+    "content": "\r\nAyush Gupta , studying in IIT Kanpur as a BT student in ME will do\r\nhis summer internship in SDE Intern  profile at Amazon. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nOracle, Jaguar Land Rover, Piramal\r\n\r\n## Insights on the Selection Process\r\nJust 2 coding questions were asked in Amazon, one on binary search tree and another was a tricky one on arrays.\r\nNo resume based questions, and no HR questions.\r\n\r\n##  Preparation Resources\r\nStudied DSA concepts and did questions from InterviewBit, Leetcode, GfG and SPO resources for SDE preparation.\r\nFor data science, did projects on ML, DL, computer vision and thoroughly learnt about the concepts in those projects.\r\nFor mechanical core preparation, revised courses like Thermodynamics, Mechanics of Solids, Intro to electrical engineering, Fluid mechanics, \r\n\r\n## Advice for students (dos and don’ts)? \r\nStart early and slow and stay consistent\r\n\r\n",
+    "meta": {
+      "title": "Ayush Gupta: Summer Intern at Amazon",
+      "description": "Ayush Gupta",
+      "date": "2023-06-21",
+      "tags": "SDE Intern ,Amazon,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-ayush-kumar-texas-instruments",
+    "content": "\r\nAyush Kumar, studying in IIT Kanpur as a BTech student in EE will do\r\nhis summer internship in Embedded Software Internship profile at Texas Instruments. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nTexas Instruments, Quantbox, Adobe\r\n\r\n## Insights on the Selection Process\r\nOpen only for CSE & EE. No CPI criteria.\r\nFirst we had a 30 mins aptitude test followed by embedded software test of 45mins.\r\nYou have to score atleast 80-90% combined to get shortlisted for interviews.\r\nThe interviewer asked me about the EE courses I have taken and question related to cybersecurity (as i mentioned it in my resume). \r\nSince, I was not much interested in core, he asked me questions related to cybersecurity, cryptography, hashing algorithms, backprocess of how a C program is executed and some very basic questions related to circuits.\r\nThe interview round went around 30-40 mins. I only had one interview round.\r\n\r\n##  Preparation Resources\r\nMostly solved coding problems from interviewbit & cses problem set.\r\nThroughout the summer I solved around 400+ DSA problems and have been doing competitive programming from 3rd semester. \r\nMy CPI was low so I was having a hard time getting shortlisted for many companies. \r\nI didn't prepared anything specific to core as my main aim was for SDE roles.\r\n\r\n## Advice for students (dos and don’ts)? \r\nFocus on your CPI. No matter which role you want to get it be it software, quant, consulting etc. a good CPI will always give you edge over others in getting shortlisted for technical test/interviews. Once you reach the interview stage it won't be that much of a trobule. \r\nAs for someone who is aming for SDE roles I would suggest to start early and be consistent at it. Start with interviewbit, solve cses problems and give contest regularly. It would be more than sufficient.\r\n\r\n",
+    "meta": {
+      "title": "Ayush Kumar: Summer Intern at Texas Instruments",
+      "description": "Ayush Kumar",
+      "date": "2023-06-21",
+      "tags": "Embedded Software Internship,Texas Instruments,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-deepanshi-maheshwari-jsw",
+    "content": "\r\nDeepanshi Maheshwari, studying in IIT Kanpur as a BTech student in MSE will do\r\nher summer internship in Techno Managerial profile at JSW. Here are some brief\r\ninsights of hers.\r\n\r\n## Shortlisted Profiles & Companies:\r\nGIVA- Operations\r\n● VEDANTA- Operations\r\n● SIEMENS\r\n\r\n## Insights on the Selection Process\r\n1. Aptitude Test\r\nPrepare puzzles and all through interview but and give\r\nsome additional aptitude tests on google or practice CAT\r\nQuestions (6-7 papers) \\{keeping in mind the time\\}-\r\nMathematical Problems, Data Interpretation, Basic English\r\naptitude questions\r\n2. ESO202A- Medium Level for the Test, Thermodynamics\r\n(Medium Level Questions), ESO205A Topics. General\r\nquestion related to Materials and metallurgy\r\n3. GD- Have a Practice through Mocks with friends or\r\norganised by AnC and SPO. My Topic was “Should\r\nMoonlighting be legal in India?” . I would recommend you\r\nto be polite, not over power others, don’t convert it to a\r\ndebate. Go through topics of GD \\{during prep time, fir 5-10\r\nmins something\\} on Google and read points under them .\r\nWork on your communication skills.\r\n4. HR Round- Started with 1 minute of brief Introduction of\r\nme and my resume, Questions on POR and Projects.\r\nStrengths and Weakness. General HR questions\r\n5. Prepare through questions available on google.\r\nI recommend you to know about the company- what do they\r\n\r\ndo , what they provide etc you can read about past\r\ninterviews on quora or ask some seniors recruited in same\r\ncompany last year before Interview and GD.\r\n\r\n##  Preparation Resources\r\n- InterviewBit’s - coding and puzzles\r\n- Aptitude Test - Previous Year CAT Papers\r\n- Course Slides- ESO202A, ESO205A, MSE201A, ESO201\r\n- GD Topics on Internet\r\n\r\n## Advice for students (dos and don’ts)? \r\n-Don’t Just Prepare for one profile and be ready for Multiple Profiles\r\n-Be Honest with the Resume, start preparing it beforehand.\r\n-Consult with as many seniors as much as you can under the same profile , don&#39;t be shy\r\nasking your doubts.\r\n\r\n",
+    "meta": {
+      "title": "Deepanshi Maheshwari: Summer Intern at JSW",
+      "description": "Deepanshi Maheshwari",
+      "date": "2023-06-21",
+      "tags": "Techno Managerial,JSW,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-devansh-agarwal-uber",
+    "content": "\r\nDevansh Agarwal, studying in IIT Kanpur as a BTech student in EE will do\r\nhis summer internship in SWE profile at Uber. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\n● GS\r\n● Uber\r\n\r\n## Insights on the Selection Process\r\n1. Test Score\r\n2. Resume - In interview - projects and experience\r\n3. First priority in resume - Past exp, then projects.\r\n\r\nInsights on the\r\nSelection Process\r\n\r\n3 rounds - 2 technical 1 HR\r\nOne question each round - DSA (stack, math)\r\nOne paper, after had to run code\r\n3rd round: Basic HR questions, Past experience, Technical\r\nquestions related to system design and data structures\r\n\r\nSample Interview\r\n/Test Questions\r\n\r\n1. Solving mathematical expressions (eg. 3+5*7 solving\r\nthrough stack)\r\n2. Designing/ managing airport/ runways (scheduling flights)\r\n3. GFG available questions\r\n4. Meeting Scheduler\r\n\r\n##  Preparation Resources\r\n1. Leetcode and interviewbit\r\n2. GFG SDE sheet\r\n3. Youtube playlist of DP- Aditya Verma\r\n4. P-Club Archives/ SPO test series\r\n\r\n## Advice for students (dos and don’ts)? \r\n1. Don’t spend too much time on a single question (approx. 30 mins for a question, the\r\ninterview round is 40-50 mins max.)\r\n2. Practice solving questions, writing pseudocodes on paper\r\n3. Thorough knowledge of DS and time complexity\r\n4. Look at the side topics (Architecture, system design, DBMS, SQL) at the end.\r\n5. Generally, questions from codeforces, CodeChef, etc. are not asked in screening tests\r\nor interviews. Can avoid those in the coming months.\r\n\r\n",
+    "meta": {
+      "title": "Devansh Agarwal: Summer Intern at Uber",
+      "description": "Devansh Agarwal",
+      "date": "2023-06-21",
+      "tags": "SWE,Uber,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-devansh-kumar-jha-kla-tencor",
+    "content": "\r\nDevansh Kumar Jha, studying in IIT Kanpur as a B-Tech student in EE will do\r\nhis summer internship in AI/ML Intern profile at KLA Tencor. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\n● KLA Tencor ML + Software\r\n● Quant box Quant + Systems\r\n● Graviton Quant\r\n● NK Securities Quant\r\n● Samsung Korea\r\n● Morgan Stanley\r\n● Sprinklr\r\n\r\n## Insights on the Selection Process\r\nSpecifically for this company you need to have a broad domain of\r\nknowledge including proficiency in solving logical puzzles,\r\nknowledge of some popular programming language (pointers,\r\nstructures and there working etc. in that language) and DSA. Apart\r\nfrom that you will be tested for your profile specific skills (ML in\r\nmy case) rigorously.\r\nAs there are no tests the interview process is quite extensive.\r\n\r\n##  Preparation Resources\r\n1) Interview Bit (as much as you can).\r\n2) Brain stellar or Xin Feng Zhou book (more important for quant).\r\n3) OOPs, C++ STL and read about programming languages.\r\n4) Geeks for geeks (For any doubts you have).\r\n5) MSO201 or CS203 for probability statistics (important for puzzles).\r\n6) Can go through MTH102 and Machine Learning basics (from Gfg’s) if preparing for ML\r\nroles.\r\n\r\n## Advice for students (dos and don’ts)? \r\nDo’s\r\n1) Make a list of resources for the preparation of your profile and then start with the most\r\nrelevant/popular or recommended material.\r\n2) Finish what you start before starting something new.\r\n3) Read the work description carefully, it will tell you the type of questions you can\r\nexpect.\r\nDon’ts\r\n1) Compare with others.\r\n2) Get overburdened with your preparation.\r\n3) Not enjoying your summers.\r\n\r\n",
+    "meta": {
+      "title": "Devansh Kumar Jha: Summer Intern at KLA Tencor",
+      "description": "Devansh Kumar Jha",
+      "date": "2023-06-21",
+      "tags": "AI/ML Intern,KLA Tencor,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-dibyajyoti-haloi-texas-instruments",
+    "content": "\r\nDibyajyoti Haloi, studying in IIT Kanpur as a BTech student in EE will do\r\nhis summer internship in Embedded Software Internship profile at Texas Instruments. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nnan\r\n\r\n## Insights on the Selection Process\r\n1)Asked me about myself and my strength which helps to the company\r\n2)Asked about embedded system and some of it's application\r\n3)Asked pointer related questions and a question from bit manipulation(in C language)\r\n4)Asked how data structure helps in programming\r\n5)Asked course(analog,digital) related questions like on op amp,processor etc\r\n6)Asked about projects and how it helps me apart from academics\r\n7)Asked about any projects that related to control system if I have done\r\n8)Finally asked me if I have any questions\r\n\r\n##  Preparation Resources\r\nFor SDE  profile I have practiced questions from gfg and interview bit from the last 3 months. And for core profile my previous knowledge about core courses related to the profile helps. The aptitude questions I have prepared from brainstellar and also revised mso201 course notes.\r\n\r\n## Advice for students (dos and don’ts)? \r\nJust utilize the summer properly and don't get demotivated by your friend's selection and focus on your weakness and try to improve it over time.\r\n\r\n",
+    "meta": {
+      "title": "Dibyajyoti Haloi: Summer Intern at Texas Instruments",
+      "description": "Dibyajyoti Haloi",
+      "date": "2023-06-21",
+      "tags": "Embedded Software Internship,Texas Instruments,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-divyansh-gupta-amazon",
+    "content": "\r\nDivyansh Gupta, studying in IIT Kanpur as a BT student in CE will do\r\nhis summer internship in SDE profile at Amazon. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nJPMC, Qube Research, Amazon\r\n\r\n## Insights on the Selection Process\r\nFirst question was Tell me all the Sorting algorithms you know and their time complexities.\r\nThen two live coding questions\r\nFirst was on two pointer technique\r\nSecond question was on Zigzag traversal of a Binary tree\r\n\r\n##  Preparation Resources\r\nLeetcode, InterviewBit, GeeksforGeeks, Love Babbar DSA questions, Aditya Verma DP playslist\r\n\r\n## Advice for students (dos and don’ts)? \r\nFirst choose the profile you are interested in(at least 2) then thoroughly work on it everyday.\r\nFor SDE role coding is essential. Regular coding(at least 3 problems a day) is a must and regular contests for time constraint. Leetcode is a good platform for practicing DSA concepts.\r\n\r\n",
+    "meta": {
+      "title": "Divyansh Gupta: Summer Intern at Amazon",
+      "description": "Divyansh Gupta",
+      "date": "2023-06-21",
+      "tags": "SDE,Amazon,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-faheem-nizar-american-express",
+    "content": "\r\nFaheem Nizar, studying in IIT Kanpur as a B.Tech student in Electrical Engineering will do\r\nhis summer internship in Data Analytics (Credit and Fraud Risk) profile at American Express. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nnan\r\n\r\n## Insights on the Selection Process\r\nThe analytics test for Amex was among the more easier tests that we\r\nhad to give. This gives an opportunity for all students to get shortlisted,\r\nas most students can easily score quite well in the tests. Amex comes\r\nafter a main cohort of companies come together in the so-called “Day\r\n1”, so most of the students will have a good idea of how to appear for\r\nthe tests properly.\r\nFor the interview selection, there were most likely more factors than just\r\nthe test scores. So resume will definitely play a role here. Try to do one\r\nproject/internship for keeping your chances towards the safe side. It is\r\nnot necessary to be an expert in ML/AI, as I myself didn’t have any\r\n\r\nprojects in that domain.\r\nDuring the interview, make sure you are calm and confident. The\r\ninterviewers are very friendly and try to make you comfortable. Make\r\nsure you answer all the questions without self-doubt. Also make sure\r\nyou have thoroughly gone through each and every point of your\r\nresume. They will enquire deeply to a particular point if its relevant to\r\nthe role.\r\n\r\n##  Preparation Resources\r\n 50 challenging problems in probability\r\n Andrew Ng course on Basics of Machine learning\r\n Try a few case study problems (completely optional)\r\nNothing much else in terms of resources.\r\n\r\n## Advice for students (dos and don’ts)? \r\nThe interview is mostly HR related, so having a good speaking skill will be very helpful for the\r\nprocess. Speaking with confidence, and owning your words is also important to them, so be\r\nmindful of what you reply.\r\nGoing through your resume is very important. Make sure you know all the points in there, and\r\ntry not to fumble on any of the points.\r\n\r\nThe internship season is undeniably a very stressful period. But make sure you don’t stress\r\nout before of during the interview. Clear your mind for at least 2 hours prior. Speak with\r\ndelight and stay calm. Enjoy the process, as many opportunities will come in your way.\r\n\r\n",
+    "meta": {
+      "title": "Faheem Nizar: Summer Intern at American Express",
+      "description": "Faheem Nizar",
+      "date": "2023-06-21",
+      "tags": "Data Analytics (Credit and Fraud Risk),American Express,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-garvit-arora-samsung-electronics-south-korea",
+    "content": "\r\nGarvit Arora, studying in IIT Kanpur as a B.Tech student in Electrical Engineering will do\r\nhis summer internship in Software profile at Samsung Electronics, South Korea. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nnan\r\n\r\n## Insights on the Selection Process\r\nThe selection process was based basically on three criteria:\r\na. CPI\r\nb. Coding skills\r\nc. HR (unlike most of the other companies, not just for the\r\nsake of it purpose)\r\n\r\n##  Preparation Resources\r\nSoftware:\r\n- Interview bit\r\n- CP-algorithms\r\n- GFG\r\n- Test series from archives by PClub\r\n- Some YT videos (mostly from striver)\r\nQuant:\r\n- 50 challenging problems in probability by Frederick Mosteller\r\n- Brainstellar\r\n\r\n## Advice for students (dos and don’ts)? \r\nDOs:\r\n- Take advice from seniors.\r\n- Practice DSA as much as possible.\r\n- After you are shortlisted for any company’s interview, find all the previously asked\r\nquestions by that company and solve them religiously.\r\n- You can do this thing before the coding test of that company also (although much\r\nlesser time is available once the coding tests start)\r\n- During the interview, aim to exhibit confidence by speaking a little louder and with\r\nclarity.\r\nDONTs:\r\n- Don’t focus too much on gathering more projects if you already have enough relevant\r\nprojects for your resume. It would be best if you have DSA + one more skill (ML,\r\nWebD, or anything else). Take an SnT or Stamatics summer project if you need one\r\n(they generally don’t require much effort).\r\n- Well, don’t waste your time in the summer XD. Do enjoy, but within limits.\r\n\r\n",
+    "meta": {
+      "title": "Garvit Arora: Summer Intern at Samsung Electronics, South Korea",
+      "description": "Garvit Arora",
+      "date": "2023-06-21",
+      "tags": "Software,Samsung Electronics, South Korea,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-girik-maskara-jane-street",
+    "content": "\r\nGirik Maskara, studying in IIT Kanpur as a BT student in CSE will do\r\nhis summer internship in Quantitative Trading profile at Jane Street. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nJane Street - Quant Trading, Optiver - Quant Trading.\r\n\r\n## Insights on the Selection Process\r\nFor Jane Street :\r\n1. Resume Shortlist\r\n2. Test - There was a subjective test with questions on probability\r\n3. Interview Process - There were a total of four interviews, one of which was a preliminary round, and the other three happened consecutively on the final day.\r\n\r\nThey mainly test your knowledge and application to apply basic concepts of probability like expected value, linearity of expectation, understanding of probability distributions, etc.. \r\n\r\n##  Preparation Resources\r\n50 Challenging Problems in Probability, Guide to Quant Finance, Brainstellar, Interview Bit.\r\n\r\n## Advice for students (dos and don’ts)? \r\nFor Quant profiles, it is important to have a strong hold on the fundamental concepts of probability. It is also important to be good at approximating difficult calculations quickly, as well as being quick and accurate while solving simple calculations mentally.\r\n\r\n",
+    "meta": {
+      "title": "Girik Maskara: Summer Intern at Jane Street",
+      "description": "Girik Maskara",
+      "date": "2023-06-21",
+      "tags": "Quantitative Trading,Jane Street,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-harjap-singh-piramal-groups",
+    "content": "\r\nHarjap Singh, studying in IIT Kanpur as a BT student in CHE will do\r\nhis summer internship in Pharma profile at Piramal Groups. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nMicrosoft (TPM&PM) , WorldQuant (Quant), Edelweiss (Quant), Piramal Group (Pharma)\r\n\r\n## Insights on the Selection Process\r\n Microsoft:\r\nIn each round, I had done case -discussions. Basically in case discussions, I was assigned a task of designing a app(like car-rental app, music app for blind people, ride app for blue-collar workers).Some questions about technical aspects like (frontend ,backened, user-interface) were also asked.\r\n\r\nWorldQuant:\r\nThey asked general questions about my interest in finance and my projects. They asked 2 puzzles( how to create equal-probable event from biased coin ,  other is based on Bayesian probability) and one question of maths. After that some general HR questions.\r\n\r\nEdelweiss:\r\nThey went deeper in my one of project and asked 2-3 math questions where I had to prove something. I was also asked two guesstimates questions and one of the interviewbit puzzle.\r\n\r\nPiramal Group:\r\nGeneral questions about distillation column, its application and commercialization was asked. Then bunch of HR questions about my goals, strength, weakness and reason for choosing chemical Engineering. \r\n\r\n\r\n\r\n##  Preparation Resources\r\nI started my preparations from second week of May. I already went though some of data structures before preparations but still follow the time table shared by SPO. Along with coding, I was also engaged in 2 projects. This was typical schedule that I follow till mid-June. After that, I also started looking for puzzles on \"Gurmeet Puzzles\", \"Braingle\"  and \"Brainstellar\". I also looked about \"Guesstimates and case interviews\".\r\n\r\n\r\n## Advice for students (dos and don’ts)? \r\nWell prepared before D-Day begins. It will happen many times that things are not going as you think or hope. But just have a faith on yourself, learn from mistakes and keep on trying.\r\n\r\n",
+    "meta": {
+      "title": "Harjap Singh: Summer Intern at Piramal Groups",
+      "description": "Harjap Singh",
+      "date": "2023-06-21",
+      "tags": "Pharma,Piramal Groups,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-harsh-jain-samsung-electronics-co-ltd",
+    "content": "\r\nHarsh Jain , studying in IIT Kanpur as a BT student in CSE will do\r\nhis summer internship in R&D Associate profile at Samsung Electronics Co., Ltd. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nnan\r\n\r\n## Insights on the Selection Process\r\nOnly one Question from Strings and some projects from my resume were discussed in the technical interview.\r\nTheoretical knowledge of DSA is a good thing to have for smooth technical interview process.\r\nJust be confident and never give one word answers. It's not an objective Question paper which would have a binary answer. Always try to express your answer as a story.\r\n\r\n##  Preparation Resources\r\nI used GFGs for preparing the base. It has the collection of all standard problems and algorithms.\r\nInterviewBit to practice for coding tests and interviews. \r\nI used Brainsteller to prepare for Quant profiles.\r\n\r\n## Advice for students (dos and don’ts)? \r\nDo CP to clear coding tests and have some good knowledge of DSA for clearing interviews. A course on probability is a good thing for Quant profiles. And try to maintain a good CPI ( it will have only good side effects:)\r\n\r\n",
+    "meta": {
+      "title": "Harsh Jain: Summer Intern at Samsung Electronics Co., Ltd",
+      "description": "Harsh Jain",
+      "date": "2023-06-21",
+      "tags": "R&D Associate,Samsung Electronics Co., Ltd,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-harsh-trivedi-quantbox",
+    "content": "\r\nHarsh trivedi , studying in IIT Kanpur as a BT student in CSE will do\r\nhis summer internship in Quantitative research  profile at Quantbox. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nGoogle, quadeye, graviton\r\n\r\n## Insights on the Selection Process\r\nGoogle - Easy question in the coding round 1, in second round the coding question was good but solvable.\r\nGraviton - 2 coding question which should be easy if you have practiced and the questions on computer organisation for SDE role.\r\nTower - 3 or 4 probability question which were hard for me and fun for interviewer xd. Overall it is super intense interview.\r\nQuadeye - Again some coding and probability question which were very easy.\r\nSamsung - Easy coding question but the HR round is intensive and you should know about korean culture.\r\nQuantbox - Again some question were repeated from interviewbit and the interview that I had given but in some questions the interviewer was helpful and we had a great discussion.\r\n\r\n##  Preparation Resources\r\nFirst of all start coding by giving contest on different platforms and the key to success is to  not skip even a single contest on codeforces, codechef and atcoder. This will create a good base then afterwards start solving problems on interviewbit they are super good and relatable to the tests.\r\nThe 2 main topic that I feel is asked most is DP and graph so once you are finished with interviewbit solve problems from these topics. And give the pclub contest seriously because they are the real test to measure your preparation.\r\nEnough of coding now the next part needed especially for Quant profile is probability for which first finish \"50 challenging problems\", then brainstellar, if you still have time left then go for \"practical guide for quantitative finance\". \r\nNow your are ready for the interview all the best\r\n\r\n\r\n\r\n## Advice for students (dos and don’ts)? \r\nPlan your preparation and complete interviewbit, branstellar and 50 challenging problem. Interview is all about confidence just think loud share your thought and take hint from the interviewer and you are good to go.\r\nAll the best\r\n\r\n",
+    "meta": {
+      "title": "Harsh trivedi: Summer Intern at Quantbox",
+      "description": "Harsh trivedi",
+      "date": "2023-06-21",
+      "tags": "Quantitative research ,Quantbox,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-hisham-hadi-t-google-hardware",
+    "content": "\r\nHisham Hadi T, studying in IIT Kanpur as a BTech student in EE will do\r\nhis summer internship in Silicon Engineering Intern profile at Google Hardware. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nnan\r\n\r\n## Insights on the Selection Process\r\nGoogle gives high weightage to previous experience in core when\r\nshortlisting candidates for interview. Having core projects or second\r\nyear core internships is a positive factor\r\nGoogle also looks for something they call Googleyness, which is an\r\nindicator of how good a fit the candidate is to the google culture.\r\n\r\n##  Preparation Resources\r\n1. Prof. Baquer Mazhari’s lectures for ESC201, available on YouTube\r\n2. HDLbits for Verilog practice\r\n3. PYQs of relevant core courses done in IITK\r\n4. Other youtube lectures and channels like Neso Academy\r\n5. Coding from Interviewbit (mainly for other profiles)\r\n\r\n## Advice for students (dos and don’ts)? \r\nDos:\r\n1. Think out loud in interviews. Keep talking through whatever you’re doing to get to the\r\nsolution. For the interviewer, how you reached the answer is just as important as the\r\nanswer you got.\r\n2. The interviewer is not your opponent. Learn to find cues in what they say, they often\r\nnudge us in the right direction.\r\nDon’ts:\r\n1. Don’t try to answer questions from courses that you haven’t studied. Just tell them and\r\nthey will avoid questions from that area.\r\n\r\n",
+    "meta": {
+      "title": "Hisham Hadi T: Summer Intern at Google Hardware",
+      "description": "Hisham Hadi T",
+      "date": "2023-06-21",
+      "tags": "Silicon Engineering Intern,Google Hardware,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-hitesh-anand-quadeye-securities",
+    "content": "\r\nHitesh Anand, studying in IIT Kanpur as a CSE student in nan will do\r\nhis summer internship in Quant profile at Quadeye Securities. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nQuadeye(Systems), Tower Research Capital(Quant), Samsung Korea (Core/Research), Microsoft (Software)\r\n\r\n## Insights on the Selection Process\r\nI had four interviews in total on Day-1. Two (Tower and Quadeye) were offline and the rest (Samsung and Microsoft) were online.\r\n\r\nTower Research : I was asked questions from probability and some puzzles. The problems were really tricky and they really took a lot of time and thinking. I think doing the last 15-20 questions from 50 CP and hard problems from Brainstellar properly might give you some exposure to the level of questions asked here. Though, I still feel the level of questions was slightly more difficult. For example, one of the questions was based on a slight modification of Minimum Spanning Tree.\r\n\r\nQuadeye : There were four rounds. In the first three rounds, they asked some probability questions and puzzles. The topics covered expected values, mean, variance of probability distributions, puzzles, etc. The difficulty was that of Brainstellar Easy+Medium, and 50 CP. The questions were quite interesting, but not that difficult. Some of the questions were: 1. find the 80th percentile element in an unsorted array in linear time, 2. A 6-sided fair dice is rolled n times, define a random variable Xi to denote the number of times the ith face showed up, then find the covariance of X1 and X2, 3. Estimate the sum of the square root of first 49 natural numbers, etc. \r\n\r\nSamsung Korea : This was a very smooth experience (except for the miserable internet connection). I was first sent to the HR round. They asked me about my future goals and why did I apply for Samsung, and similar questions. It went on for about 20-25 minutes. Next, there was a small technical round where I was asked questions about my resume(my projects and internship experience), and a question from String manipulation (easy one). \r\n\r\nMicrosoft : There were two rounds. Both were related to DSA. Some questions were easy and some were tricky. The questions were : 1. Second smallest element in array, 2. find the peak element in an array (and some variations), and 3. A string pattern matching question based on KMP algorithm (slight variation).\r\n\r\n##  Preparation Resources\r\nFor the SDE role, I focused mainly on competitive programming and DSA. I didn't have much CP experience at the start of my preparation. I started focusing on CP properly after the beginning of my 4th sem. I tried to solve 1-2 problems daily from the codeforces problem set. I started covering topic-wise DSA from interviewbit. It took me around one month to complete all the topics properly. I also took notes of the topics and questions where I was stuck which were quite helpful at the time of revision. I was also regular in giving the contests on Codeforces and Codechef. Besides this, I also participated in some of the contests organized by Pclub. Contests really helped me improve my CP skills and solve problems in limited time. But, first learn properly about C++ STL from any online source (GFG preferably) before solving harder problems. So to summarize, Codeforces + Interviewbit + Proper revision of DSA should be enough to do better in Coding rounds and Interviews as far as SDE roles are concerned. I was done with all this one week before the tests started. Hence, I solved some problems from Leetcode Hard as well but that's completely optional if you have done rest of the things mentioned above properly.\r\n\r\nFor the Quant roles, I covered 50 Challenging Problems, Brainstellar, Cut-the-knot problemset, and Xinfeng Zhou's Practical Guide to Quantitative Finance Interviews. Before solving questions, ensure that you have revised the basic probability concepts such as Expected values, means, variance, probability distributions, Geometric Probability, etc. These topics are covered in the Probability courses such as CS203 or MSOs. The order of solving problems was as follows : 50 CP -> Brainstellar -> Xinfeng Zhou -> Cut-the-knot. You need not solve all of them. Just solve 50 CP and brainstellar properly (atleast twice). Then, move to the last two if you have time. You need not have a good knowledge of finance or markets beforehand.\r\n\r\n## Advice for students (dos and don’ts)? \r\nMaintain your CPI (the most important advice) and improve your problem-solving skills. Most of the coding tests require decent CP skills for you to get shortlisted. Hence, along with Interviewbit/Leetcode, also invest some time on solving problems from Codeforces/giving contests. The earlier you start, the better you get at this. Be consistent. Another important thing that most people overlook is that you have to maintain your temperament throughout. At times, you might feel quite nervous and frustrated. You will want the process to end as soon as possible. Avoid this sort of thinking. In your free time, do breathing exercises, meditate for a while, exercise. In the summers, try to get a project/internship which doesn't affect your preparation too much. During the summers, try to fix your routine and devote a fixed amount of time to preparation consistently. Maintain your health and stay calm even if you get an unexpected result. Stay calm, maybe there is something better waiting for you at the end :)\r\n\r\n",
+    "meta": {
+      "title": "Hitesh Anand: Summer Intern at Quadeye Securities",
+      "description": "Hitesh Anand",
+      "date": "2023-06-21",
+      "tags": "Quant,Quadeye Securities,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-ishaan-shukla-oracle-india",
+    "content": "\r\nIshaan Shukla, studying in IIT Kanpur as a BTech student in Electrical Engineering will do\r\nhis summer internship in Member of technical staff profile at Oracle, India. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\n● Texas- analog, digital\r\n● Oracle\r\n\r\n## Insights on the Selection Process\r\nDP, linked list, Puzzles\r\n\r\n##  Preparation Resources\r\nLeetcode, interviewbit, striver sheet\r\n\r\n## Advice for students (dos and don’ts)? \r\nDos\r\nDon’t lose hope\r\nIf you are not good at coding don’t start from codeforces rather start from some basic\r\nproblems\r\nFind what suits you not what your friends suggests you\r\nIf you are not able to do question, learn that Algorithm.\r\nDon’ts\r\nDo theory and questions simultaneously. Don’t wait for doing theory first and then questions.\r\nDon’t waste summer\r\n\r\n",
+    "meta": {
+      "title": "Ishaan Shukla: Summer Intern at Oracle, India",
+      "description": "Ishaan Shukla",
+      "date": "2023-06-21",
+      "tags": "Member of technical staff,Oracle, India,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-ishan-bawne-finmechanics",
+    "content": "\r\nIshan Bawne, studying in IIT Kanpur as a BS student in Physics will do\r\nhis summer internship in nan profile at Finmechanics. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\n● Oracle\r\n● Giva\r\n● Slice\r\n● Finmechanics\r\n\r\n## Insights on the Selection Process\r\n1. Resume Shortlist\r\na. CPI > 7.5\r\n2. Test\r\na. Probability\r\nb. Logical Reasoning\r\nc. DBMS and SQL\r\nd. Find the Output type Questions.\r\n3. Interview Process\r\na. Two Rounds of Interview\r\nb. Round 1 was on Probability and Problem-solving skills\r\nand details about past internships and projects.\r\nc. Round 2 was based on Programming aptitude, Resume,\r\nand general HR Questions.\r\n\r\nInsights on the\r\nSelection Process\r\n\r\nI observed that selection the process favored those who were good with\r\nprogramming aptitude and had previous work experience in internships\r\nand/or quality projects.\r\n\r\nSample Interview\r\n/Test Questions\r\n\r\nIn the interview they asked about a graph optimization problem. They\r\nframed the question as if it was a networking problem but essentially it\r\nwas a graph problem. Knowing Dijkstra Algorithm helped me there.\r\n\r\n##  Preparation Resources\r\nI used Leetcode for solving programming questions. And geeks for geeks for puzzles.\r\n\r\n## Advice for students (dos and don’ts)? \r\nDo’s\r\n• Try to add quality projects to your resume.\r\n• Previous work experience such as any internships would add great value to your\r\nresume.\r\n• In the interview don’t leave your ideas and opinions open to interpretation. Try to\r\ncommunicate what you are thinking to the interviewer and make sure that they\r\nunderstand it the way you want it to (With help of examples or by any other means).\r\nDon’t’ ‘s\r\n• Try to avoid talking about topics you don’t know about. If asked about those topics I\r\nthink it would be better to explicitly say that you didn’t come around those topics and\r\nyou would like to read about those topics. If you have valid justification for not knowing\r\nyou can give a short justification too.\r\n\r\n",
+    "meta": {
+      "title": "Ishan Bawne: Summer Intern at Finmechanics",
+      "description": "Ishan Bawne",
+      "date": "2023-06-21",
+      "tags": "nan,Finmechanics,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-jahnavi-kairamkonda-uber",
+    "content": "\r\nJahnavi Kairamkonda, studying in IIT Kanpur as a BTech student in CSE will do\r\nher summer internship in SDE profile at Uber. Here are some brief\r\ninsights of hers.\r\n\r\n## Shortlisted Profiles & Companies:\r\nGoogle SDE, Goldman Sachs\r\n\r\n## Insights on the Selection Process\r\nTechnical interviews had CP questions in both Uber and Google. Probability was asked in Goldman Sachs. \r\n\r\n##  Preparation Resources\r\nI mostly concentrated on improving my coding skills because SDE was my target. Interviewbit was helpful throughout. In the end when it came to preparing for company specific or topic wise questions, I started using Leetcode.\r\n\r\n## Advice for students (dos and don’ts)? \r\nStart DSA as early as possible. It’s always good to have more practice when it comes to that topic. Luck plays a role in everything. Do not get disheartened by rejections. Try to know what you missed and try improving for further tests and interviews.\r\n\r\n",
+    "meta": {
+      "title": "Jahnavi Kairamkonda: Summer Intern at Uber",
+      "description": "Jahnavi Kairamkonda",
+      "date": "2023-06-21",
+      "tags": "SDE,Uber,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-janhvi-rochwani-goldman-sachs",
+    "content": "\r\nJanhvi Rochwani, studying in IIT Kanpur as a BT student in CSE will do\r\nher summer internship in Summer Intern (SDE or Quant will be decided within the company later) profile at Goldman Sachs. Here are some brief\r\ninsights of hers.\r\n\r\n## Shortlisted Profiles & Companies:\r\nOptiver - Trading role\r\n\r\n## Insights on the Selection Process\r\nMostly DS and Programming. For quant/trading roles, emphasis is on probability, logic and math.\r\n\r\n##  Preparation Resources\r\nInterviewBit and GeeksForGeeks\r\n\r\n## Advice for students (dos and don’ts)? \r\nPractice as much as you can. The next question you choose to solve may very well end up in a test or an interview. Keep calm and do your level best. Good luck!\r\n\r\n",
+    "meta": {
+      "title": "Janhvi Rochwani: Summer Intern at Goldman Sachs",
+      "description": "Janhvi Rochwani",
+      "date": "2023-06-21",
+      "tags": "Summer Intern (SDE or Quant will be decided within the company later),Goldman Sachs,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-jasjot-singh-adobe",
+    "content": "\r\nJasjot Singh, studying in IIT Kanpur as a BT student in CSE will do\r\nhis summer internship in Research Intern profile at Adobe. Here are some brief\r\ninsights of his.\r\n\r\n## Shortlisted Profiles & Companies:\r\nOptiver (Quant), Quadeye, Goldman Sachs, Sprinklr, WorldQuant, Edelweiss\r\n\r\n## Insights on the Selection Process\r\nFor Adobe, my interview was based on discussing projects mentioned in the resume,gauging my interest in research and one quant problem - Monty Hall\r\nIn quant firms apart from Optiver, the questions are mostly based on the resources mentioned above or slight variations of them.\r\nFor software roles, I was asked theoretical questions on Object Oriented Programming and mostly variations of standard problems (Stacks and Queues, Heaps, Graphs). I was asked to implement some standard data structures such as Vectors and Strings as classes.\r\nOptiver has a very different interview process which invovles mental math and market making so it's a bit hard to prepare for that.\r\n\r\n##  Preparation Resources\r\nFor Quant preparation -  50 challenging problems in probability, Brainstellar, Xinfeng Zhou (problems might overlap in the last two but the book has very good explanations of problems, so do read the first 5 chapters)\r\nFor SDE - InterviewBit/LeetCode for practice (stick with one platform only and I feel InterviewBit is concise and has a good set of questions which cover most of the stuff)\r\nGeeksForGeeks and InterviewBit resources for theory\r\n\r\n## Advice for students (dos and don’ts)? \r\nIt's very important to know your resume inside out, especially for projects. I had a few rounds where I was grilled for half an hour just on one project which they liked.\r\nFor people targeting software role, do study OOPs seriously because a lot of MCQs or theoretical questions are asked in the tests and interviews.\r\nAlso, try to understand how some major data structures are implemented in the programming language.\r\nFor quant roles, CPI plays a major role in certain firms so do your best to work on that\r\n\r\n",
+    "meta": {
+      "title": "Jasjot Singh: Summer Intern at Adobe",
+      "description": "Jasjot Singh",
+      "date": "2023-06-21",
+      "tags": "Research Intern,Adobe,Internship",
+      "imageUrl": ""
+    }
+  },
+  {
+    "slug": "2023-intern-jaya-gupta-quadeye-securities",
+    "content": "\r\nJaya Gupta, studying in IIT Kanpur as a BT student in CSE will do\r\nher summer internship in System Developer profile at Quadeye Securities. Here are some brief\r\ninsights of hers.\r\n\r\n## Shortlisted Profiles & Companies:\r\nnan\r\n\r\n## Insights on the Selection Process\r\nSimple C++ Related Ques:\r\n1. What are virtual functions?\r\n2. Runtime and Compile Time Polymorphism\r\n3. Questions Regarding OOPS\r\n\r\n##  Preparation Resources\r\nKnowledge of basic coding and some system knowledge\r\n\r\n## Advice for students (dos and don’ts)? \r\nBe cool and decide what you like\r\n\r\n",
+    "meta": {
+      "title": "Jaya Gupta: Summer Intern at Quadeye Securities",
+      "description": "Jaya Gupta",
+      "date": "2023-06-21",
+      "tags": "System Developer,Quadeye Securities,Internship",
+      "imageUrl": ""
+    }
+  }
+]
+}
+}

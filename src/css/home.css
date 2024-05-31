@@ -1,0 +1,49 @@
+body{
+    background-color:rgb(246, 246, 253);
+}
+.resources{
+    display: flex;
+    flex-direction: column; 
+    align-items: start; 
+    justify-content: start;
+    margin-top: 50px;
+}
+.resourceHead{
+    font-weight:bolder;
+    font-size: xx-large;
+    margin-left: 2%;
+}
+.resourcesList{
+    text-decoration: none;
+    display: inline-block;
+    background-color: white;
+    box-shadow: 2px 2px 1px rgb(240, 239, 239);
+    border-radius: 2%;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    width: 20%;
+}
+.resourcesTitle{
+    font-weight: bold;
+    font-size: large;
+    color: black;
+    text-align: center;
+}
+.listContainer{
+    margin-left: 10%;
+    display: flex;
+     flex-wrap: wrap;
+}
+.listBox{
+    margin: 6%;
+}
+.roadMapTitle{
+    font-weight:bolder;
+    font-size: xx-large;
+    margin-left: 2%;
+}
+.faqTitle{
+    font-weight:bolder;
+    font-size: xx-large;
+    margin-left: 2%;
+}

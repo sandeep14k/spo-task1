@@ -1,0 +1,27 @@
+.personTitle{
+    margin-top: 140px;
+    margin-left:12%;
+    font-size: 3.4rem;
+    font-weight: bolder;
+}
+.personDate{
+    margin-left: 13%;
+    font-size: 1.2rem;
+    color: rgb(43, 43, 43);
+    margin-bottom: 80px;
+}
+.content-heading{
+    margin-left: 14%;
+}
+.content-list-item{
+    margin-left: 14%;
+    font-size: 1.2rem;
+}
+.content-paragraph{
+    margin-left: 14%;
+    font-size: 1.2rem;
+
+}
+.content{
+    width: 90%;
+}
