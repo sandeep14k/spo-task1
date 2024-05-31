@@ -1,24 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { HashRouter,Routes,Route } from 'react-router-dom';
+import Home from './pages/home';
+import Placement from './pages/insights';
+import InsightData from './pages/insightData';
+import TestList from './pages/testList';
+import CodingTest from './pages/coding';
+import Result from './pages/result';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <HashRouter>
+      <Routes>
+        <Route path='/' element={<Home/>}/>
+        <Route path='/insights' element={<Placement />}/>
+        <Route path='/insights/:slug' element={<InsightData/>}/>
+        <Route path='/mocktest' element={<TestList/>}/>
+        <Route path="/test/:id" element={<CodingTest/>} />
+        <Route path="/result" element={<Result/>} />
+      </Routes>
+    </HashRouter>
   );
 }
 
