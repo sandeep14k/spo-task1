@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Students' Placement Office (SPO) Portal - IIT Kanpur
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a comprehensive preparation portal for the Students' Placement Office (SPO) at IIT Kanpur. The portal provides insights into placements and internships, roadmaps, resumes of seniors, preparation resources, FAQs, and mock tests. The application is built using React.
 
-## Available Scripts
+## Code Structure
 
-In the project directory, you can run:
+spo-portal/
+├── components/
+│   ├── Navbar.js
+│   ├── Footer.js
+│   ├── Faq.js
+├── css/
+│   ├── home.css
+│   ├── insights.css
+│   ├── insightdata.css
+├── data/
+│   ├── placement_insights.json
+│   ├── internship_insights.json
+├── pages/
+│   ├── Home.js
+│   ├── Coding.js
+│   ├── InsightData.js
+│   ├── InsightResults.js
+│   ├── TestList.js
+├── App.js
+├── index.js
+├── package.json
+└── README.md
 
-### `npm start`
+components/: Contains reusable components such as Navbar, Footer, and Faq.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+css/: Contains CSS files for styling the components and pages.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+data/: Contains JSON files for placement and internship insights.
 
-### `npm test`
+pages/: Contains React components for different pages of the application, such as Home, Coding, InsightData, InsightResults, and TestList.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+App.js: Defines the main component of the application, routing logic, and layout.
 
-### `npm run build`
+index.js: Renders the root component (App) into the root DOM element.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+package.json: Contains metadata about the project and its dependencies.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+README.md: This file; contains instructions on how to run the project and describes its structure.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Navigation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Navbar: Contains links to Insights, Roadmaps, Preparation Resources, Mock Test, and FAQs.
+Insights: Displays placement and internship insights.
+Roadmaps: Displays roadmaps for preparation.
+Preparation Resources: Provides resources for preparation.
+Mock Test: Provides mock tests for practice.
+FAQs: Displays frequently asked questions.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### How to Run
+To run this project locally, follow these steps:
+1.Clone this repository to your local machine:
+git clone https://github.com/your-username/spo-portal.git
+2.Install dependencies using npm or yarn:
+npm install or yarn install
+3.Start the development server
+npm start or yarn start
